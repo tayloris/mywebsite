@@ -1,2 +1,0 @@
-# mywebsite
-Learning about webpages
