@@ -61,4 +61,4 @@ This is the homepage of my website. I'm using it to learn how to build websites.
 - pyroflueplots: Developer of small tool for visualizing data from pirolisis experiments
 - code optimizer: Increased parallel efficiency and speedup by 10% in a solid and  established  software.
 
-[Curriculum Vitae](/cv.html)
+[Curriculum Vitae](/cv.md)
